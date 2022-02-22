@@ -4,4 +4,5 @@ This is a line of text
 This is a line of text
 This is a line of text
 This is a line of text
+I am moving the line from branch-1 here in branch-2
 This is a line of text

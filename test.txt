@@ -4,5 +4,6 @@ This is a line of text
 I am adding a line of text here in branch-1
 This is a line of text
 This is a line of text
+Something else
 This is a line of text
 This is a line of text
